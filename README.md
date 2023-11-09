@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkasar98&label=Profile%20views&color=0e75b6&style=flat" alt="omkasar98" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+- 👨‍💻 All of my projects are available at [https://sunny-chebakia-07401e.netlify.app/](https://sunny-chebakia-07401e.netlify.app/)
 
 - 💬 Ask me about **Java,HTML,CSS,& JavaScript,Sql**
 
