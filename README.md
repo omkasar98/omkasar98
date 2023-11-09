@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omkasar98" alt="omkasar98" /></a> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://sunny-chebakia-07401e.netlify.app/](https://sunny-chebakia-07401e.netlify.app/)
+- 👨‍💻 All of my projects are available at [ https://omkasar98.github.io/]( https://omkasar98.github.io/)
 
 - 💬 Ask me about **Java,HTML,CSS,& JavaScript,Sql**
 
